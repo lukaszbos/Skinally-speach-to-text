@@ -1,5 +1,5 @@
 
-# Skinally 2b
+# Skinally speach-to-text
 
 A lightweight and customizable **speech-to-text transcription system** built with Python. Designed for real-time audio input from microphone or file, with support for voice activity detection (VAD) and offline transcription.
 
