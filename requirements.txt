@@ -1,0 +1,6 @@
+numpy
+sounddevice
+webrtcvad
+torch
+torchaudio
+scipy
